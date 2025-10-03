@@ -44,6 +44,21 @@ O sistema monitora continuamente os níveis de luminosidade do ambiente onde os 
 - Arduino IDE
 - Biblioteca: `LiquidCrystal.h`
 
+📸 Visualização do Projeto
+Circuito no Tinkercad
+![Circuito Montado](imagens/sistemaMonitoramento1.png)
+Vista geral do circuito montado no Tinkercad
+Tela de Boas-vindas
+![LCD com mensagem](imagens/sistemaMonitoramento2.png)
+Display LCD mostrando mensagem de boas-vindas com ícones customizados
+Sistema em Funcionamento
+![Estado OK](imagens/sistemaMonitoramento3.png)
+Sistema em estado OK - LED verde aceso (0-40% luminosidade)
+![Estado Alerta](imagens/sistemaMonitoramento4.png)
+Sistema em estado de alerta - LED amarelo aceso + buzzer (41-65% luminosidade)
+![Estado Crítico](imagens/sistemaMonitoramento5.png)
+Sistema em estado crítico - LED vermelho aceso + buzzer (66-100% luminosidade)
+
 ## 📐 Diagrama de Conexões
 
 ### Pinos do Arduino:
