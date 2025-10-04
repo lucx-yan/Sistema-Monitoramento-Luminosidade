@@ -97,7 +97,7 @@ SENSORES/ALARMES:
 ## 🚀 Como Executar
 
 ### No Tinkercad:
-1. Acesse o link do projeto: www.tinkercad.com/things/fDY7kEMlbAE-checkpoint01-edge-computing
+1. Acesse o link do projeto: https://www.tinkercad.com/things/fDY7kEMlbAE-checkpoint01-edge-computing
 2. Clique em "Iniciar Simulação"
 3. Ajuste o slider do LDR para simular diferentes níveis de luminosidade
 4. Observe o comportamento dos LEDs, buzzer e display
