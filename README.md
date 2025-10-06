@@ -194,7 +194,7 @@ Este projeto foi desenvolvido para fins educacionais como parte do curso da FIAP
 ## 🔗 Links
 
 - [Simulação no Tinkercad](https://www.tinkercad.com/things/fDY7kEMlbAE-checkpoint01-edge-computing)
-- [Vídeo explicativo](INSERIR_LINK_VIDEO_AQUI)
+- [Vídeo explicativo](https://youtu.be/ksg1BodcMfc)
 - [Documentação Arduino](https://www.arduino.cc/reference/en/)
 
 ---
